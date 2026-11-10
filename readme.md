@@ -86,6 +86,7 @@
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
+- [Reelary Video to Text](https://reelary.app/tools/video-to-text) - Video transcription that runs locally in your browser, with SRT and VTT export.
 
 ### Self-hosted
 
